@@ -10,3 +10,6 @@ from scipy import stats
 from pylab import savefig
 %matplotlib inline
 
+#Read prepared dataset
+master = pd.read_csv("Master_Dataset.csv")
+
