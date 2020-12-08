@@ -8,7 +8,7 @@ This repository contains the data and code used to complete the data challenge s
 
 This repository contains public sector information licensed under the [Open Government Licence v3.0.](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). as well as an MIT licence which is given under 'LICENSE'
 
-# To view the analysis
+## To view the analysis
 The report is available at ['Is loneliness linked to the availability of a local university?'](https://www.mileshewitt.com/projects/lonelinessuniversity)
 
 #
