@@ -25,3 +25,4 @@ Below are the datasets used which are publicly available. This is attached in or
 * [Median Ages of Local Authorities](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/006346medianageforlocalauthoritiesintheukmid2015)
 * [English Indices of Deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015)
 * [Population Estimates of Local Authorities](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland)
+* [Loneliness Prescription Index](https://datasciencecampus.ons.gov.uk/developing-a-loneliness-prescription-index/)
