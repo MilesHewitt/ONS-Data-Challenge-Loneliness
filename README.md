@@ -20,7 +20,8 @@ All analysis undertaken and plots formed are within '/set-up-files' with respect
 Below are the datasets used which are publicly available. This is attached in order for the work produced to be reproducible and transparent.
 
 * [Migration Data](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/migrationwithintheuk/datasets/internalmigrationmovesbylocalauthoritiesandregionsinenglandandwalesby5yearagegroupandsex)
-* [University Urban/Rural Classification](https://get-information-schools.service.gov.uk/Establishments/Search?tok=8ThuOg8I&startIndex=50&Count=134)
+* [Urban/Rural Classification](https://www.gov.uk/government/statistics/local-authority-rural-urban-classification)
+* [University Local Authority](https://get-information-schools.service.gov.uk/Establishments/Search?tok=8ThuOg8I&startIndex=50&Count=134)
 * [University Rankings](https://www.thecompleteuniversityguide.co.uk/league-tables/rankings)
 * [Median Ages of Local Authorities](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/006346medianageforlocalauthoritiesintheukmid2015)
 * [English Indices of Deprivation](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015)
